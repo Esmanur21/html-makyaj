@@ -1,0 +1,70 @@
+body{
+    background-color:#94B49F;
+    
+}
+ul{
+    margin-left: 300px;
+}
+#yatay{
+
+    list-style: none;
+    display: flex;
+    text-align: center;
+
+}
+ #el{
+    background-color: #ECB390;
+padding: 12px;
+border: 1px solid #94B49F;
+margin: 5px;
+list-style-position:inside;
+width: 250px; 
+text-align: center;}
+a{
+    color :#FCF8E8;
+    text-decoration: none;
+}
+.picture{
+    width: 333px;
+    border-radius: 50%;
+    box-shadow: 10px 10px 10px #FCF8E8 ;
+  text-align: initial;
+  padding: 19px;
+ margin-left: 550px;
+
+}
+.metin{
+    margin-left: 10%; margin-right:10%;
+    padding: 70px;
+    color: #FCF8E8;
+}
+.yazi{
+    color: black;
+    opacity: 0.6;
+ 
+}
+
+#hakkimizda{
+    background-color: #ECB390;
+}
+#baslik{
+    color: #94B49F;
+    text-align: center;
+    box-shadow: 10px 10px 10px;
+}
+#at{padding-left: 485px;
+    padding-top: 50px;
+    width: 565px;
+    height: 560px;
+}
+
+ol{
+text-align: center;
+list-style: none;
+padding: 255px;
+
+}
+.oz{
+    margin: 33px;
+    
+}
